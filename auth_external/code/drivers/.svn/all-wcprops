@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/code/drivers
+END
+FTP.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/code/drivers/FTP.php
+END
+SSTRIPE.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/code/drivers/SSTRIPE.php
+END
+LDAP.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/code/drivers/LDAP.php
+END
+HTTPBASIC.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/code/drivers/HTTPBASIC.php
+END
+FAKE.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/code/drivers/FAKE.php
+END
+IMAP.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/code/drivers/IMAP.php
+END

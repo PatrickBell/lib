@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/parsers
+END
+BBCodeParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/parsers/BBCodeParser.php
+END
+TextParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/parsers/TextParser.php
+END
+BBCodeParser.ini
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/parsers/BBCodeParser.ini
+END
+SQLFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/parsers/SQLFormatter.php
+END
+ShortcodeParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/parsers/ShortcodeParser.php
+END

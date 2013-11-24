@@ -1,0 +1,125 @@
+<?php
+
+/**
+  * External Authentication server definitions
+  * Change the parameters below to suit your authentication server, or disable 
+  * this authentication method altogether
+  */
+Authenticator::register_authenticator('ExternalAuthenticator');
+
+/** 
+ * Create your authentication source
+ *
+ * The FAKE driver always logs people on
+ *
+ * USE FOR DEVELOPMENT AND TESTING PURPOSES ONLY
+ **/
+ExternalAuthenticator::createSource('fake','FAKE','test');
+
+/**
+ * For each source you may give a set of netmasks where the client should 
+ * reside. This prevents exposing internal authentication sources on a 
+ * website that is accessible from the outside. Any failed logins from outside 
+ * the indicated IP ranges on accounts coupled to this source will never block
+ * the account (see Member::lock_out_after_incorrect_logins)
+ *
+ * If no addresses are set all clients IPs are allowed. You can set either one
+ * netmask, or an array of netmasks. The netmask may be given as a single IP or
+ * as a.b.c.d/e or a.b.c.d/e.f.g.h
+ **/ 
+//ExternalAuthenticator::setValidAddress('fake',array('192.168.0.0/24',
+//                                                    '127.0.0.1',
+//                                                    '172.16.0.129/255.255.255.128));
+//ExternalAuthenticator::setValidAddress('fake','127.0.0.1);
+
+/**
+ * This module has a debug option. The debug option is aimed at system 
+ * administrators and/or webmasters. It shows the login process on a step
+ * by step basis to aid in finding the right settings for the module.
+ * The debug option will log the steps to a file. 
+ *
+ * KEEP THIS DISABLED ON PRODUCTION SYSTEMS. The option is turned off by 
+ * default. Set to filename to enable
+ *
+ * A successful logon for the SSTRIPE driver (without user auto creation) looks 
+ * like:
+ *    [timestamp] - Starting process for user [userid]
+ *    [timestamp] - [userid] - User with source [sourcename] found in database
+ *    [timestamp] - [userid] - loading driver FAKE
+ *    [timestamp] - [userid] - executing authentication driver
+ *    [timestamp] - [userid] - authentication success
+ *    [timestamp] - [uderid] - Process for user [userid] ended
+ **/
+//ExternalAuthenticator::setAuthDebug('/tmp/sstripe_debug.log');
+
+/**
+ * Next to the debug log, we can also create a logfile for auditing purposes
+ * In this file only logon attempts are registered
+ *
+ * Set this option to false to disable (default) or a filename. Make sure the
+ * file is writable by the webserver process
+ **/
+//ExternalAuthenticator::setAuditLogFile('/var/log/http/sstripe_audit.log');
+
+/**
+ * Silverstripe also has an internal table for auditing. You can enable or 
+ * disable (default) usage of it. It works in parallel with setAuditLogFile
+ **/
+//ExternalAuthenticator::setAuditLogSStripe(true);
+
+/**
+ * Four pieces of information come into play when authenticating
+ * 1) The User's mail address
+ * 2) The authentication source
+ * 3) The User's identification credential at the source. This can be the 
+ *    username, or some other unique ID. This module calls it the 
+ *    anchor 
+ * 4) The password
+ *
+ * By default the user address is used for login. 
+ * The mail address is always unique, so SilverStripe can determine the
+ * authentication source and anchor to use for itself.
+ * The user only needs to give his/hers mail address and password
+ *
+ * Optionally the anchor can be used for authentication. If this is set the
+ * user needs to input the authentication source, the anchor and password
+ * to logon.
+ **/
+//ExternalAuthentication::setUseAnchor(false); 
+
+/**
+ * How do we call a user ID?
+ * This string is informational and will appear on the login page
+ */
+ExternalAuthenticator::setAnchorDesc('Whatever');
+
+/**
+ * You have to possibility to auto create non existing users.
+ * The effect of this option also depends on setting in 
+ * 'setUseAnchor'. If set to true, an account is created with a mail address
+ * that is constructed as [anchor value]@[present domain]
+ * If an account already exists with the this mail address and authentication
+ * is successful, the anchor and source are added or modified on that account
+ * This helps migrating existing SilverStripe users to external authentication
+ * sources.
+ *
+ * If 'setUseAnchor' is set to false (the default) nothing will happen
+ * This driver does not have the capability to determine source and anchor for
+ * a given mail address
+ *
+ * WARNING WARNING WARNING
+ * With the fake driver this lets anyone logon
+ *
+ * The second argument with this option is the group to add the user to. If an
+ * existing account is modified, the group memberships are not changed.
+ **/
+ExternalAuthenticator::setAutoAdd('fake', false);
+
+/**
+ * When an account is auto created, the e-mail address must be added to the
+ * user account. By default, the mail address is equal to the user account
+ * If the setting below is configured, is will be 
+ * [username]@[what's configured below]
+ **/
+//ExternalAuthenticator::setDefaultDomain('fake', 'silverstripe.com');
+

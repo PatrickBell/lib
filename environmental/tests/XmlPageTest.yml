@@ -1,0 +1,45 @@
+XmlPage:
+    flatSitePage:
+        SiteID: 1
+        SiteType: Flat Type
+    analysisSitePage:
+        SiteID: 1
+        SiteType: AnalysisType
+
+FlatXmlData:
+    flatSiteXml:
+        InformationType: Site
+        SiteID: 1
+        SiteType: Flat Type
+        SiteName: The Site
+        Payload: "<?xml version='1.0'?><Site UniqueID='1'><SiteName>The Site</SiteName><Latitude>-41.409325</Latitude><Longitude>173.145348</Longitude></Site>"
+    analysisXml1:
+        InformationType: Analysis
+        SiteID: 1
+        SiteType: AnalysisType
+        SiteName: The Analysis Site One
+        Payload: "<AnalysisType><SiteName>Site One</SiteName><Value>10</Value></AnalysisType>"
+    analysisXml2:
+        InformationType: Analysis
+        SiteID: 2
+        SiteType: AnalysisType
+        SiteName: The Analysis Site Two
+        Payload: "<AnalysisType><SiteName>Site Two</SiteName><Value>20</Value></AnalysisType>"
+    otherAnalysisXml:
+        InformationType: Analysis
+        SiteID: 2
+        SiteType: OtherAnalysisType
+        SiteName: The Other Site
+        Payload: "<AnalysisType><SiteName>Site Two</SiteName><Value>30</Value></AnalysisType>"
+        
+TimedXmlData:
+    flatSiteReading1:
+        SiteID: 1
+        SiteType: Flat Type
+        Payload: "<IntervalValue><Value>10</Value><DateTime>01/01/2010 10:00:00 a.m.</DateTime></IntervalValue>"
+        Time: 2010-01-01 10:00:00
+    flatSiteReading2:
+        SiteID: 1
+        SiteType: Flat Type
+        Time: 2010-01-02 11:00:00
+        Payload: "<IntervalValue><Value>20</Value><DateTime>01/02/2010 11:00:00 a.m.</DateTime></IntervalValue>"

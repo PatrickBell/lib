@@ -1,0 +1,23 @@
+GoogleMapPage:
+    mapPage:
+        Title: Map Page
+	grayMapPage:
+		Title: Gray Map Page
+		DefaultIcon: geotagging/images/icons/Gray.png
+        
+Page:
+    site:
+        Title: Site
+        Lat: 10
+        Long: 10
+        Parent: =>GoogleMapPage.mapPage
+    subsite:
+        Title: SubSite
+        Lat: 20
+        Long: 20
+        Parent: =>Page.site
+	graySite:
+		Title: GraySite
+		Lat: 30
+		Long: 30
+		Parent: =>GoogleMapPage.grayMapPage

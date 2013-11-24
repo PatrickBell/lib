@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search
+END
+SearchForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/SearchForm.php
+END
+SearchContext.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/SearchContext.php
+END
+AdvancedSearchForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/AdvancedSearchForm.php
+END
+ContentControllerSearchExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/ContentControllerSearchExtension.php
+END
+FulltextSearchable.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/FulltextSearchable.php
+END

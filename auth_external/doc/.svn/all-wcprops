@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/doc
+END
+_config.ldap
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/doc/_config.ldap
+END
+_config.httpbasic
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/doc/_config.httpbasic
+END
+_config.fake
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/doc/_config.fake
+END
+_config.imap
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/doc/_config.imap
+END
+_config.ftp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/doc/_config.ftp
+END
+_config.sstripe
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/doc/_config.sstripe
+END

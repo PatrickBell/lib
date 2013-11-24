@@ -1,0 +1,4 @@
+RatesPage:
+	ratesPage:
+		URLSegment: ratesPage
+

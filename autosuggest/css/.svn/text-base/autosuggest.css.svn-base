@@ -1,0 +1,46 @@
+/* ----------------------------
+ * Autocomplete Styles
+ * ----------------------------- */
+div.gcomplete-default-box {
+	border: 1px solid #DFDD8D;
+	background-color: #FFFFFF;
+	cursor: default;
+	width: 222px;
+	margin-top: 3px;
+	font-size: 1em;
+	padding: 4px;
+}
+/* Webkit hack. */
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	div.gcomplete-default-box {
+		margin-left: 2px;
+		margin-top: 2px;
+	}
+}
+/**
+ * List default Style
+ */
+div.gcomplete-default-box dl {
+	display: table;
+	margin: 0;
+	padding: 0;
+	cursor: default;
+}
+div.gcomplete-default-box dl dt {
+	display: table-cell;
+	margin: 0;
+	padding: 3px 2px 3px 4px;
+	line-height: 16px;
+	width: 222px;
+}
+/**
+ * List rollover Style
+ */
+div.gcomplete-default-box dl.over {
+	background-color: #F7F6F4;
+	cursor: pointer;
+	color: #A50343;
+}
+div.gcomplete-default-box dl.over dt, div.gcomplete-default-box dl.over dd {
+	color: #A50343;
+}

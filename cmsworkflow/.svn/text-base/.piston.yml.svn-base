@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: 16f6662d148ad3240008ac6d2417f62d209cd507
+  branch: master
+lock: false
+repository_class: Piston::Git::Repository
+repository_url: https://github.com/silverstripe/silverstripe-cmsworkflow.git

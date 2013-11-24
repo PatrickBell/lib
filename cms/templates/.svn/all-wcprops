@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates
+END
+SSReportTableField_printable.ss
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/SSReportTableField_printable.ss
+END
+Dialog.ss
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/Dialog.ss
+END
+PageCommentInterface_singlecomment.ss
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/PageCommentInterface_singlecomment.ss
+END
+CMSMain_dialog.ss
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/CMSMain_dialog.ss
+END
+ReportAdminForm.ss
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/ReportAdminForm.ss
+END
+ThumbnailStripField.ss
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/ThumbnailStripField.ss
+END
+CMSMain_versions.ss
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/CMSMain_versions.ss
+END
+PageCommentInterface.ss
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/PageCommentInterface.ss
+END
+AssetAdmin_uploadiframe.ss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/AssetAdmin_uploadiframe.ss
+END
+LeftAndMain_printable.ss
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/LeftAndMain_printable.ss
+END
+LeftAndMain.ss
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/LeftAndMain.ss
+END
+WidgetAreaEditor.ss
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/WidgetAreaEditor.ss
+END
+BlankPage.ss
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/BlankPage.ss
+END
+WidgetDescription.ss
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/WidgetDescription.ss
+END
+WidgetEditor.ss
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/WidgetEditor.ss
+END
+ModelSidebar.ss
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/templates/ModelSidebar.ss
+END

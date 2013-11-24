@@ -1,0 +1,20 @@
+GoogleMapPage:
+    mapPage:
+        Title: Map Page
+        URLSegment: mapPage
+        
+Page:
+    site:
+        Title: Site Title
+        Lat: 10
+        Long: 10
+        Parent: =>GoogleMapPage.mapPage
+    subsite:
+        Title: Sub Site Title
+        Lat: 20
+        Long: 20
+        Parent: =>Page.site
+    otherSite:
+        Title: OtherSite
+        Lat: 30
+        Long: 30

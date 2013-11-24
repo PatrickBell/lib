@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment
+END
+DPSHarness.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/DPSHarness.php
+END
+DPSPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/DPSPayment.php
+END
+DPSRecurringPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/DPSRecurringPayment.php
+END
+DPSAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/DPSAdapter.php
+END

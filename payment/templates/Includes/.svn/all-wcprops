@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/templates/Includes
+END
+ConfirmPayment.ss
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/templates/Includes/ConfirmPayment.ss
+END
+RatesPayment.ss
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/templates/Includes/RatesPayment.ss
+END
+PaymentsStart.ss
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/templates/Includes/PaymentsStart.ss
+END
+DPSPayment_receipt.ss
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/templates/Includes/DPSPayment_receipt.ss
+END
+WaterPayment.ss
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/templates/Includes/WaterPayment.ss
+END
+FeeNotice.ss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/templates/Includes/FeeNotice.ss
+END
+DPSPayment.ss
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/templates/Includes/DPSPayment.ss
+END
+DPSRecurringPayment.ss
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/templates/Includes/DPSRecurringPayment.ss
+END

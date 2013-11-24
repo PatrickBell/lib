@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/functional
+END
+AjaxControllerFunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/functional/AjaxControllerFunctionalTest.php
+END
+XmlPageFunctionalTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/functional/XmlPageFunctionalTest.yml
+END
+SiteXmlPageFunctionalTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/functional/SiteXmlPageFunctionalTest.yml
+END
+XmlPageFunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/functional/XmlPageFunctionalTest.php
+END
+AjaxControllerFunctionalTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/functional/AjaxControllerFunctionalTest.yml
+END
+SiteXmlPageFunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/functional/SiteXmlPageFunctionalTest.php
+END

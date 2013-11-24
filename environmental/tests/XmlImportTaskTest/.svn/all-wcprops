@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest
+END
+Broken.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/Broken.xml
+END
+ChangedSites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/ChangedSites.xml
+END
+SiteReadings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/SiteReadings.xml
+END
+Analysis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/Analysis.xml
+END
+SiteReadingsMore.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/SiteReadingsMore.xml
+END
+VeryOldSiteReadings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/VeryOldSiteReadings.xml
+END
+Sites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/Sites.xml
+END
+LessAnalysis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/LessAnalysis.xml
+END
+MoreSites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/MoreSites.xml
+END
+ChangedAnalysis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/ChangedAnalysis.xml
+END
+LessSites.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest/LessSites.xml
+END

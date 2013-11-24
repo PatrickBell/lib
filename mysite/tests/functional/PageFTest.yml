@@ -1,0 +1,11 @@
+HomePage:
+	home:
+		URLSegment: home
+
+Page:
+	page:
+		URLSegment: page
+
+SiteConfig:
+	siteConfig:
+		CivilDefenceAlertMode: false

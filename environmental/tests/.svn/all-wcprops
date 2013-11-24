@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests
+END
+XmlDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlDataTest.php
+END
+FlatXmlDataTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/FlatXmlDataTest.yml
+END
+SiteXmlPageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/SiteXmlPageTest.yml
+END
+XmlPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlPageTest.php
+END
+XmlImportTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest.php
+END
+FlatXmlDataTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/FlatXmlDataTest.php
+END
+SiteXmlPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/SiteXmlPageTest.php
+END
+XmlDataTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlDataTest.yml
+END
+XmlPageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlPageTest.yml
+END
+XmlImportTaskTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/tests/XmlImportTaskTest.yml
+END

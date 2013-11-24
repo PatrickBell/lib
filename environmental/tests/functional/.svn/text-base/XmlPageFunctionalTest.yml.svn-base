@@ -1,0 +1,9 @@
+XmlPage:
+    withoutTemplate:
+        SiteID: 1
+        SiteType: WithoutTemplate
+        URLSegment: without-template
+    riverFlowTemplate:
+        SiteID: 2
+        SiteType: RiverFlow
+        URLSegment: river-flow-template

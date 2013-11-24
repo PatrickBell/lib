@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes
+END
+DBFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/DBFieldTest.php
+END
+HTMLTextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/HTMLTextTest.php
+END
+CurrencyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/CurrencyTest.php
+END
+DateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/DateTest.php
+END
+PercentageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/PercentageTest.php
+END
+DecimalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/DecimalTest.php
+END
+LabelFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/LabelFieldTest.php
+END
+WidgetAreaEditorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/WidgetAreaEditorTest.php
+END
+TextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/TextTest.php
+END
+DecimalTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/fieldtypes/DecimalTest.yml
+END

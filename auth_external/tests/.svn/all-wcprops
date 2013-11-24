@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/tests
+END
+ExternalAuthenticatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/tests/ExternalAuthenticatorTest.php
+END
+AuthExternal.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/122290/projects/tdc/branches/libraries/auth_external/tests/AuthExternal.yml
+END

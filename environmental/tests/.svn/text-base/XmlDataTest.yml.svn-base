@@ -1,0 +1,19 @@
+FlatXmlData:
+    x1:
+        InformationType: Site
+        SiteID: 1
+        SiteType: Type1
+        Payload: "<?xml version='1.0'?><Site UniqueID='1'><StringField>a string</StringField><IntField>1.2345678</IntField></Site>"
+    x2:
+        InformationType: Site
+        SiteID: 2
+        SiteType: Type2
+    x3:
+        InformationType: Site
+        SiteID: 3
+        SiteType: Type2
+    broken:
+        InformationType: Site
+        SiteID: 1
+        SiteType: Broken
+        Payload: "<?xml version='1.0'?><Site UniqueID='1'>a string</StringField><IntField>1.2345678</IntField></Site>"

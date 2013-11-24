@@ -1,0 +1,30 @@
+NoticeListPage:
+	noticeListPage:
+		URLSegment: noticeListPage
+
+NoticePage:
+	notice1:
+		URLSegment: notice1
+		Title: title1
+		DisplayDate: 2010-01-01 12:00:00
+		PublishNotice: 0
+		Parent: =>NoticeListPage.noticeListPage
+	notice2:
+		URLSegment: notice2
+		Title: title2
+		DisplayDate: 2010-01-14 12:00:00
+		PublishNotice: 1
+		Parent: =>NoticeListPage.noticeListPage
+	notice3:
+		URLSegment: notice3
+		Title: title3
+		DisplayDate: 2010-01-13 12:00:00
+		PublishNotice: 1
+		Parent: =>NoticeListPage.noticeListPage
+	notice4:
+		URLSegment: notice4
+		Title: title4
+		DisplayDate: 2010-01-12 12:00:00
+		PublishNotice: 1
+		Parent: =>NoticeListPage.noticeListPage
+

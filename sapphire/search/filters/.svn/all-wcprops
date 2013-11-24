@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters
+END
+GreaterThanFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/GreaterThanFilter.php
+END
+NegationFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/NegationFilter.php
+END
+EndsWithFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/EndsWithFilter.php
+END
+SearchFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/SearchFilter.php
+END
+FulltextFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/FulltextFilter.php
+END
+StartsWithMultiFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/StartsWithMultiFilter.php
+END
+PartialMatchFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/PartialMatchFilter.php
+END
+ExactMatchMultiFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/ExactMatchMultiFilter.php
+END
+StartsWithFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/StartsWithFilter.php
+END
+WithinRangeFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/WithinRangeFilter.php
+END
+SubstringFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/SubstringFilter.php
+END
+ExactMatchFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/ExactMatchFilter.php
+END
+LessThanFilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/search/filters/LessThanFilter.php
+END

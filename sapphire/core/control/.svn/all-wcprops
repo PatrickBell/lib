@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control
+END
+RootURLController.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/RootURLController.php
+END
+Director.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/Director.php
+END
+ContentController.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/ContentController.php
+END
+HTTPResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/HTTPResponse.php
+END
+FormResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/FormResponse.php
+END
+Controller.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/Controller.php
+END
+SilverStripeNavigatorItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/SilverStripeNavigatorItem.php
+END
+ContentNegotiator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/ContentNegotiator.php
+END
+NestedController.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/NestedController.php
+END
+RequestHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/RequestHandler.php
+END
+HTTPRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/HTTPRequest.php
+END
+ModelAsController.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/control/ModelAsController.php
+END

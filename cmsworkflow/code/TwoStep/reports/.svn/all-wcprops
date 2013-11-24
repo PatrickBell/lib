@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/TwoStep/reports
+END
+UnapprovedPublications2StepReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/TwoStep/reports/UnapprovedPublications2StepReport.php
+END
+MyTwoStepWorkflowRequests.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/TwoStep/reports/MyTwoStepWorkflowRequests.php
+END
+UnapprovedDeletions2StepReport.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/TwoStep/reports/UnapprovedDeletions2StepReport.php
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model
+END
+MySQLDatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/MySQLDatabaseTest.php
+END
+SiteConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/SiteConfigTest.php
+END
+ImageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/ImageTest.yml
+END
+DatetimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/DatetimeTest.php
+END
+DataObjectSchemaGenerationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/DataObjectSchemaGenerationTest.php
+END
+VirtualPageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/VirtualPageTest.yml
+END
+VersionedTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/VersionedTest.php
+END
+AggregateTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/AggregateTest.yml
+END
+MoneyTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/MoneyTest.yml
+END
+DbDatetimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/DbDatetimeTest.php
+END
+DatabaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/DatabaseTest.php
+END
+SiteConfigTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/SiteConfigTest.yml
+END
+DBLocaleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/DBLocaleTest.php
+END
+VersionedTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/VersionedTest.yml
+END
+DbDatetimeTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/DbDatetimeTest.yml
+END
+CompositeDBFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/CompositeDBFieldTest.php
+END
+TranslatableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/TranslatableTest.php
+END
+HierarchyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/HierarchyTest.php
+END
+ComponentSetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/ComponentSetTest.php
+END
+ImageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/ImageTest.php
+END
+VirtualPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/VirtualPageTest.php
+END
+AggregateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/AggregateTest.php
+END
+TranslatableTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/TranslatableTest.yml
+END
+MoneyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/MoneyTest.php
+END
+HierarchyTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/HierarchyTest.yml
+END
+ComponentSetTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/model/ComponentSetTest.yml
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/code/sitefeatures
+END
+Akismet.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/code/sitefeatures/Akismet.php
+END
+PageComment.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/code/sitefeatures/PageComment.php
+END
+PageCommentInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/code/sitefeatures/PageCommentInterface.php
+END
+MathSpamProtection.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/code/sitefeatures/MathSpamProtection.php
+END
+SSAkismet.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/code/sitefeatures/SSAkismet.php
+END

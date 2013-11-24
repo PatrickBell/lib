@@ -1,0 +1,7 @@
+#Form_EditForm div#SiteID div.loading {
+	background: url(../../cms/images/network-save.gif) no-repeat;
+	width: 16px; 
+	height: 16px;
+	padding: 2px;
+	float: left;
+}

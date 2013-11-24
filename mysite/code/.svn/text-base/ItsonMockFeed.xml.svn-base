@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-us"><title>ItsOn.co.nz Events</title><link href="http://itson.co.nz/" rel="alternate"></link><link href="http://itson.co.nz/feeds/all/" rel="self"></link><id>http://itson.co.nz/</id><updated>2010-12-07T15:34:34Z</updated><subtitle>Nelson region events for the next 28 days</subtitle>
+
+<entry>
+	<title>Event 1 (Friday 7th January 2011)</title>
+	<link href="http://itson.co.nz/event1" rel="alternate"></link>
+	<id>http://itson.co.nz/event1</id>
+	<summary type="html">&lt;p&gt;Body 1&lt;/p&gt;</summary>
+</entry>
+<entry>
+	<title>Event 2 (Thursday 6th January 2011)</title>
+	<link href="http://itson.co.nz/event2" rel="alternate"></link>
+	<id>http://itson.co.nz/event2</id>
+	<summary type="html">&lt;p&gt;Body 2&lt;/p&gt;&lt;p&gt;Body 2 paragraph 2&lt;/p&gt;</summary>
+</entry>
+<entry>
+	<title>Event 3 (Wednesday 5th January 2011)</title>
+	<link href="http://itson.co.nz/event3" rel="alternate"></link>
+	<id>http://itson.co.nz/event3</id>
+	<summary type="html">&lt;p&gt;Body 3&lt;/p&gt;</summary>
+</entry>
+<entry>
+	<title>Event 4 (Tuesday 4th January 2011)</title>
+	<link href="http://itson.co.nz/event4" rel="alternate"></link>
+	<id>http://itson.co.nz/event4</id>
+	<summary type="html">&lt;p&gt;Body 4&lt;/p&gt;</summary>
+</entry>
+
+</feed>

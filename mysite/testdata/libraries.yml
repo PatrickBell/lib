@@ -1,0 +1,65 @@
+Page:
+	library:
+		Title: Library
+LibraryListingPage:
+	fiction:
+		Title: Fiction
+		Parent: =>Page.library
+	nonfiction:
+		Title: Non-fiction
+		Parent: =>Page.library
+Folder:
+	testimages:
+		Title: testimages
+		Name: testimages
+		Filename: assets/testimages
+Image:
+	cover1:
+		Parent: =>Folder.testimages
+		Title: Cover 1
+		Name: cover1.jpg
+		Filename: assets/testimages/cover1.jpg
+	cover2:
+		Parent: =>Folder.testimages
+		Title: Cover 2
+		Name: cover2.jpg
+		Filename: assets/testimages/cover2.jpg
+LibraryItemPage:
+	item1:
+		ItemTitle: Fire and Ice
+		Author: Julian Jones
+		Tnumber: 101
+		AccessionNo: AAB
+		Parent: =>LibraryListingPage.fiction
+		CoverImage: =>Image.cover1
+		Content: "<p>Etiam nunc lorem, varius ut sodales non, commodo sit amet turpis. Mauris dignissim justo consectetur dui euismod non consequat felis placerat. Nulla facilisi. Proin quis mi sem, et porta ligula. Vestibulum enim lacus, adipiscing in iaculis vel, interdum vitae diam.</p><p>Nunc non urna sed arcu pulvinar accumsan at ac enim. Duis consectetur scelerisque mi, eu vehicula purus luctus ac. Mauris ultricies justo at orci gravida id molestie est venenatis. Integer et porta nulla. Donec diam ligula, ultricies vitae scelerisque tempus, consequat sed tortor. Fusce sagittis ultricies hendrerit. Cras aliquet sagittis lectus, eu semper velit molestie non. Vivamus libero felis, lacinia ac commodo quis, pharetra sed ante. Ut lectus velit, facilisis porta molestie vel, egestas et sapien. Morbi hendrerit feugiat odio faucibus porttitor. Nulla rutrum, tortor a ultrices ultricies, massa nunc luctus mi, a rhoncus augue mi at mi.</p>"
+		MetaDescription: Etiam nunc lorem, varius ut sodales non
+	item2:
+		ItemTitle: Water and Flood
+		Author: julian jones
+		Tnumber: 102
+		AccessionNo: AAC
+		Parent: =>LibraryListingPage.fiction
+		CoverImage: =>Image.cover2
+		Content: "<p>Etiam nunc lorem, varius ut sodales non, commodo sit amet turpis. Mauris dignissim justo consectetur dui euismod non consequat felis placerat. Nulla facilisi. Proin quis mi sem, et porta ligula. Vestibulum enim lacus, adipiscing in iaculis vel, interdum vitae diam.</p><p>Nunc non urna sed arcu pulvinar accumsan at ac enim. Duis consectetur scelerisque mi, eu vehicula purus luctus ac. Mauris ultricies justo at orci gravida id molestie est venenatis. Integer et porta nulla. Donec diam ligula, ultricies vitae scelerisque tempus, consequat sed tortor. Fusce sagittis ultricies hendrerit. Cras aliquet sagittis lectus, eu semper velit molestie non. Vivamus libero felis, lacinia ac commodo quis, pharetra sed ante. Ut lectus velit, facilisis porta molestie vel, egestas et sapien. Morbi hendrerit feugiat odio faucibus porttitor. Nulla rutrum, tortor a ultrices ultricies, massa nunc luctus mi, a rhoncus augue mi at mi.</p>"
+	item3:
+		ItemTitle: Gold Gold Gold
+		Author: Daria Jones
+		Tnumber: 103
+		AccessionNo: AAD
+		Parent: =>LibraryListingPage.fiction
+		MetaDescription: Etiam nunc lorem, varius ut sodales non
+	item4:
+		ItemTitle: Reference book for caterpillar testing
+		Author: Dr. Him
+		Parent: =>LibraryListingPage.nonfiction
+		CoverImage: =>Image.cover1
+		MetaDescription: Etiam nunc lorem, varius ut sodales non
+	item5:
+		ItemTitle: Become rich quick
+		Author: Stephan John
+		Tnumber: 105
+		AccessionNo: AAF
+		Parent: =>LibraryListingPage.nonfiction
+		CoverImage: =>Image.cover2
+		Content: "<p>Etiam nunc lorem, varius ut sodales non, commodo sit amet turpis. Mauris dignissim justo consectetur dui euismod non consequat felis placerat. Nulla facilisi. Proin quis mi sem, et porta ligula. Vestibulum enim lacus, adipiscing in iaculis vel, interdum vitae diam.</p><p>Nunc non urna sed arcu pulvinar accumsan at ac enim. Duis consectetur scelerisque mi, eu vehicula purus luctus ac. Mauris ultricies justo at orci gravida id molestie est venenatis. Integer et porta nulla. Donec diam ligula, ultricies vitae scelerisque tempus, consequat sed tortor. Fusce sagittis ultricies hendrerit. Cras aliquet sagittis lectus, eu semper velit molestie non. Vivamus libero felis, lacinia ac commodo quis, pharetra sed ante. Ut lectus velit, facilisis porta molestie vel, egestas et sapien. Morbi hendrerit feugiat odio faucibus porttitor. Nulla rutrum, tortor a ultrices ultricies, massa nunc luctus mi, a rhoncus augue mi at mi.</p>"

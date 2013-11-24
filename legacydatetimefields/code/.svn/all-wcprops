@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/122290/projects/tdc/branches/libraries/legacydatetimefields/code
+END
+CalendarDateField.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/122290/projects/tdc/branches/libraries/legacydatetimefields/code/CalendarDateField.php
+END
+DMYDateField.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/legacydatetimefields/code/DMYDateField.php
+END
+DropdownTimeField.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/122290/projects/tdc/branches/libraries/legacydatetimefields/code/DropdownTimeField.php
+END
+CompositeDateField.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/122290/projects/tdc/branches/libraries/legacydatetimefields/code/CompositeDateField.php
+END
+PopupDateTimeField.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/122290/projects/tdc/branches/libraries/legacydatetimefields/code/PopupDateTimeField.php
+END
+LegacyDateField.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/122290/projects/tdc/branches/libraries/legacydatetimefields/code/LegacyDateField.php
+END
+LegacyTimeField.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/122290/projects/tdc/branches/libraries/legacydatetimefields/code/LegacyTimeField.php
+END

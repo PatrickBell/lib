@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: fa32184140f73add2bcbc7b259a13408c7a99d65
+  branch: master
+lock: false
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/silverstripe-labs/silverstripe-googleanalytics.git

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev
+END
+CsvBulkLoaderTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev/CsvBulkLoaderTest.yml
+END
+CsvBulkLoaderTest_PlayersWithId.csv
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev/CsvBulkLoaderTest_PlayersWithId.csv
+END
+CsvBulkLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev/CsvBulkLoaderTest.php
+END
+LogTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev/LogTest.php
+END
+CsvBulkLoaderTest_Players.csv
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev/CsvBulkLoaderTest_Players.csv
+END
+CsvBulkLoaderTest_PlayersWithIdUpdated.csv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev/CsvBulkLoaderTest_PlayersWithIdUpdated.csv
+END
+CsvBulkLoaderTest_PlayersWithCustomHeaderAndRelation.csv
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev/CsvBulkLoaderTest_PlayersWithCustomHeaderAndRelation.csv
+END
+CSVParserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev/CSVParserTest.php
+END
+CsvBulkLoaderTest_PlayersWithHeader.csv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/dev/CsvBulkLoaderTest_PlayersWithHeader.csv
+END

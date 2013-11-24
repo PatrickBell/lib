@@ -1,0 +1,160 @@
+<?php
+
+class HomePage extends Page {
+
+	static $db = array(
+		'Content2' => 'HTMLText'
+	);
+
+	static $has_one = array(
+	);
+	
+	static $has_many = array(
+		'CarouselItems' => 'HomePage_CarouselItem'
+	);
+	
+	function getCMSFields() {
+		$fields = parent::getCMSFields();
+		
+		$fields->addFieldToTab('Root.Content.Carousel', new LiteralField('Warning3', '<p><em>Caution: this list is not versioned nor staged. Once an item is added it <strong style="color:DarkRed;">immediately goes live</strong>. You still need to save to change the ordering.</em></p>'));
+		$fields->addFieldToTab('Root.Content.Carousel', new LiteralField('TileMessage', '<p><em>Only the first <strong style="color:DarkRed;">ten</strong> items from the following list will be displayed:</em></p>'));
+		$fields->addFieldToTab('Root.Content.Main', new HTMLEditorField('Content2', 'Contact Content'));
+		$fields->addFieldToTab('Root.Content.Carousel', $dom = new DataObjectManager(
+			$this,
+			'Carousel Items',
+			'HomePage_CarouselItem'
+		));
+		
+		return $fields;
+	}
+
+}
+
+class HomePage_Controller extends Page_Controller {
+
+	function LatestNews($num=5) {
+		$GetNews = DataObject::get("NewsPage", "ParentID = 65 AND DisplayDate>=".date("Y-m-d",(time()-(28*86400))), "DisplayDate DESC, Sort ASC", "", $num);
+		$LatestNews = new DataObjectSet();
+		
+		if($GetNews){
+			foreach($GetNews as $NewsItem){
+				$ShortSummary =	wordwrap($NewsItem->Content, 100, ".", false);
+				$LongDate = date("l j F Y",strtotime($NewsItem->DisplayDate));
+				$extrainfo = array(
+					'ArticleTitle' => $NewsItem->Title,
+					'ArticleLink' => $NewsItem->Link(),
+					'DisplayDate' => $LongDate,
+					'ShortSummary' => strip_tags(substr($ShortSummary,0,strpos($ShortSummary,".",0)))
+				);
+				$LatestNews -> push(new ArrayData($extrainfo));
+			}
+		}
+		
+		return $LatestNews;
+	}
+
+	function LatestNotices($num=5) {
+	
+		$GetNotices = DataObject::get("NoticePage", "ParentID = 18 AND PublishNotice = 1", "DisplayDate DESC, Sort ASC", "", $num);
+		$LatestNotices = new DataObjectSet();
+		if($GetNotices){
+			foreach($GetNotices as $NoticeItem){
+		
+				$ShortSummary =	wordwrap($NoticeItem->Content, 100, ".", false);
+				$LongDate = date("l j F Y",strtotime($NoticeItem->DisplayDate));
+				$extrainfo = array(
+					'ArticleTitle' => $NoticeItem->Title,
+					'ArticleLink' => $NoticeItem->Link(),
+					'DisplayDate' => $LongDate,
+					'ShortSummary' => strip_tags(substr($ShortSummary,0,strpos($ShortSummary,".",0)))
+					);
+				$LatestNotices -> push(new ArrayData($extrainfo));
+			}
+		}
+		
+		return $LatestNotices;
+	}
+
+	function EventList($num=20) {
+		try{
+			$RSSFeed = RestfulLinks('http://itson.co.nz/feeds/user/tdclibraries/', 'entry', '', 3600);
+			$EventList = new DataObjectSet();
+
+			$count=0;
+
+			if($RSSFeed){
+				foreach($RSSFeed as $EventItem) {
+					//Add linebreak to first open bracket on title
+					$event_title = str_replace("(", " - (", $EventItem->title);
+
+					//Extract and convert end date from $event_title
+					$end_date = GetEndDateFromBracketedString($event_title);
+
+					$extrainfo = array(
+						'EventTitle' => $event_title,
+						'NoBreakEventTitle' => $EventItem->title,
+						'OrderID' => $count,
+						'EndDate' => $end_date
+					);
+					$EventList -> push(new ArrayData($extrainfo));
+
+					++$count;
+				}
+
+				// Reverse order so near events show first
+				$EventList -> sort("EndDate", "ASC");
+			}
+			
+			// Limit the number of events returned
+			return $EventList -> getRange(0, $num );
+		} catch(Exception $exc) {
+			return;
+		}
+	}
+	
+	function RandomImage($num=9){
+		$random_image = "feature00".rand(1,$num).".jpg";
+		return $random_image;
+	}
+	
+	function PreppedCarouselItems() {
+		$items = $this->CarouselItems();
+		if ($items) $items = $items->getRange(0, 10);
+		return $items;
+	}
+}
+
+class HomePage_CarouselItem extends DataObject {
+	static $db = array(
+		'Title' => 'Varchar(255)',
+		'Text' => 'HTMLText',
+		'SortOrder' => 'Int'
+	);
+	
+	static $has_one = array(
+		'InternalLink' => 'SiteTree',
+		'Image' => 'BetterImage',
+		'Parent' => 'SiteTree'
+	);
+	
+	static $summary_fields = array(
+		'Title' => 'Title',
+		'Text' => 'Text'
+	);
+	
+	// @codeCoverageIgnoreStart
+	function getCMSFields() {
+		$fields = new FieldSet();
+		
+		$fields->push(new TextField('Title', 'Title'));
+		$fields->push(new SimpleTinyMCEField('Text', 'Text'));
+		$fields->push(new TreeDropdownField('InternalLinkID', 'Choose a page to link to:', 'SiteTree'));
+		$fields->push(new ImageField('Image', 'Image'));
+		$fields->push(new LiteralField('ImageSize', 'The size of the image should be 956 x 296'));
+		
+		return $fields;
+	}
+	// @codeCoverageIgnoreEnd
+}
+
+?>

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security
+END
+PermissionCheckboxSetFieldTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/PermissionCheckboxSetFieldTest.yml
+END
+MemberCsvBulkLoaderTest.csv
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/MemberCsvBulkLoaderTest.csv
+END
+GroupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/GroupTest.php
+END
+MemberCsvBulkLoaderTest_cleartextpws.csv
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/MemberCsvBulkLoaderTest_cleartextpws.csv
+END
+MemberCsvBulkLoaderTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/MemberCsvBulkLoaderTest.yml
+END
+MemberAuthenticatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/MemberAuthenticatorTest.php
+END
+PermissionTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/PermissionTest.yml
+END
+BasicAuthTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/BasicAuthTest.php
+END
+GroupTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/GroupTest.yml
+END
+MemberTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/MemberTest.php
+END
+SecurityTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/SecurityTest.php
+END
+PasswordEncryptorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/PasswordEncryptorTest.php
+END
+PasswordValidatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/PasswordValidatorTest.php
+END
+SecurityTokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/SecurityTokenTest.php
+END
+PermissionRoleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/PermissionRoleTest.php
+END
+GroupCsvBulkLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/GroupCsvBulkLoaderTest.php
+END
+BasicAuthTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/BasicAuthTest.yml
+END
+PermissionCheckboxSetFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/PermissionCheckboxSetFieldTest.php
+END
+MemberTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/MemberTest.yml
+END
+GroupCsvBulkLoaderTest.csv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/GroupCsvBulkLoaderTest.csv
+END
+PermissionRoleTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/PermissionRoleTest.yml
+END
+SecurityDefaultAdminTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/SecurityDefaultAdminTest.php
+END
+MemberCsvBulkLoaderTest_withGroups.csv
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/MemberCsvBulkLoaderTest_withGroups.csv
+END
+GroupCsvBulkLoaderTest_withExisting.csv
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/GroupCsvBulkLoaderTest_withExisting.csv
+END
+GroupCsvBulkLoaderTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/GroupCsvBulkLoaderTest.yml
+END
+RandomGeneratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/RandomGeneratorTest.php
+END
+MemberCsvBulkLoaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/MemberCsvBulkLoaderTest.php
+END
+PermissionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/tests/security/PermissionTest.php
+END

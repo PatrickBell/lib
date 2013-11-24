@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="StageReport.xsl"?>
+<Reports>
+<AsAt> 5-May-2010 07:13</AsAt>
+<StageReport>
+	<SiteName>HY Anatoki at Happy Sams</SiteName>
+	<Syn1>Anatoki at Happy Sams</Syn1>
+	<Syn2>52903</Syn2>
+	<DataTo> 5-May-2010 07:00</DataTo>
+	<Stage>330</Stage>
+	<StageChange>-1</StageChange>
+	<PeakStage>435</PeakStage>
+	<PeakTime> 2-May-2010 23:25</PeakTime>
+	<PeakFlow>3.9</PeakFlow>
+	<Flow>2.4</Flow>
+</StageReport>
+<StageReport>
+	<SiteName>HY Aorere at Devils Boots</SiteName>
+	<Syn1>Aorere at Devils Boots</Syn1>
+	<Syn2>52003</Syn2>
+	<DataTo> 5-May-2010 06:45</DataTo>
+	<Stage>1200</Stage>
+	<StageChange>-1</StageChange>
+	<PeakStage>1225</PeakStage>
+	<PeakTime> 3-May-2010 06:00</PeakTime>
+	<PeakFlow>18.0</PeakFlow>
+	<Flow>13.4</Flow>
+</StageReport>
+</Reports>

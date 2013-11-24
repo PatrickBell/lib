@@ -1,0 +1,25 @@
+NewsListPage:
+	newsListPage:
+		URLSegment: newsListPage
+
+NewsPage:
+	news1:
+		URLSegment: news1
+		Title: title1
+		DisplayDate: 2010-01-01 12:00:00
+		Parent: =>NewsListPage.newsListPage
+	news2:
+		URLSegment: news2
+		Title: title2
+		DisplayDate: 2010-01-14 12:00:00
+		Parent: =>NewsListPage.newsListPage
+	news3:
+		URLSegment: news3
+		Title: title3
+		DisplayDate: 2010-01-13 12:00:00
+		Parent: =>NewsListPage.newsListPage
+	news4:
+		URLSegment: news4
+		Title: title4
+		DisplayDate: 2010-01-12 12:00:00
+		Parent: =>NewsListPage.newsListPage

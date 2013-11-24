@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code
+END
+HasOneDataObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/HasOneDataObjectManager.php
+END
+HasOneFileDataObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/HasOneFileDataObjectManager.php
+END
+AssetManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/AssetManager.php
+END
+DataObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/DataObjectManager.php
+END
+FileDataObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/FileDataObjectManager.php
+END
+SortableDataObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/SortableDataObject.php
+END
+HasManyFileDataObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/HasManyFileDataObjectManager.php
+END
+HasManyDataObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/HasManyDataObjectManager.php
+END
+ImageAssetManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/ImageAssetManager.php
+END
+ImageDataObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/ImageDataObjectManager.php
+END
+DataObjectManager_nestedurls.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/DataObjectManager_nestedurls.php
+END
+ManyManyDataObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/ManyManyDataObjectManager.php
+END
+ManyManyFileDataObjectManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/ManyManyFileDataObjectManager.php
+END
+AssetManagerFolder.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/AssetManagerFolder.php
+END

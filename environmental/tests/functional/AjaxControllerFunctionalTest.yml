@@ -1,0 +1,16 @@
+FlatXmlData:
+    x1:
+        InformationType: Site
+        SiteID: 1
+        SiteType: Type
+        SiteName: First Site
+    x2:
+        InformationType: Site
+        SiteID: 2
+        SiteType: Type
+        SiteName: Second Site
+    x3:
+        InformationType: Site
+        SiteID: 3
+        SiteType: OtherType
+        SiteName: Other Site Name

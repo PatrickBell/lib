@@ -1,0 +1,9 @@
+Page:
+	root:
+		Title: root
+	child1:
+		Title: child1
+		Parent: =>Page.root
+	child2:
+		Title: child2
+		Parent: =>Page.child1

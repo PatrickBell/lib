@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/LICENSE
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/CHANGELOG
+END
+.piston.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/.piston.yml
+END
+_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/_config.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/README.md
+END

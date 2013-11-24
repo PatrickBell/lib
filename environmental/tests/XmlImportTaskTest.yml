@@ -1,0 +1,7 @@
+SiteXmlPage:
+    sitePage:
+        SiteID: 2
+        SiteType: Swim Fresh
+    riverSitePage:
+        SiteID: 3
+        SiteType: RiverFlow

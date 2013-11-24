@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/122652/projects/tdc/branches/libraries/libraries/tests
+END
+LibraryItemPageTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122434/projects/tdc/branches/libraries/libraries/tests/LibraryItemPageTest.yml
+END
+LibraryItemPageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122652/projects/tdc/branches/libraries/libraries/tests/LibraryItemPageTest.php
+END
+HomePageDecoratorTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122434/projects/tdc/branches/libraries/libraries/tests/HomePageDecoratorTest.yml
+END
+HomePageDecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122347/projects/tdc/branches/libraries/libraries/tests/HomePageDecoratorTest.php
+END

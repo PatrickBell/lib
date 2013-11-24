@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Sites xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Site UniqueID="1">
+    <DataType>Swim Fresh</DataType>
+    <SiteName>BW Lee @ Reserve</SiteName>
+    <AltSiteName>Lee River Reserve</AltSiteName>
+    <Latitude>-41.409325</Latitude>
+    <Longitude>173.145348</Longitude>
+    <DataSource>ENVMON</DataSource>
+    <Image1>416_Ecoli.gif</Image1>
+    <Image1Title>E.coli (MPN/100mL) readings for this season at Lee River Reserve</Image1Title>
+    <Image1AltText>A bar chart showing Swimming Water Quality sampling results for this season at Lee River Reserve</Image1AltText>
+    <Image2 />
+    <Image2Title />
+    <Image2AltText />
+    <Image3>416_SitePhoto.jpg</Image3>
+    <Image3Title>Photo of Swimming Water Quality monitoring site at Lee River Reserve</Image3Title>
+    <Image3AltText>A photo of the Swimming Water Quality monitoring site at Lee River Reserve</Image3AltText>
+  </Site>
+  <Site UniqueID="2">
+    <DataType>Swim Fresh</DataType>
+    <SiteName>BW Motueka @ Alexanders Br</SiteName>
+    <AltSiteName>Motueka River Alexanders Bridge</AltSiteName>
+    <Latitude>-41.160402</Latitude>
+    <Longitude>172.922363</Longitude>
+    <DataSource>ENVMON</DataSource>
+    <Image1>814_Ecoli.gif</Image1>
+    <Image1Title>E.coli (MPN/100mL) readings for this season at Motueka River Alexanders Bridge</Image1Title>
+    <Image1AltText>A bar chart showing Swimming Water Quality sampling results for this season at Motueka River Alexanders Bridge</Image1AltText>
+    <Image2 />
+    <Image2Title />
+    <Image2AltText />
+    <Image3>814_SitePhoto.jpg</Image3>
+    <Image3Title>Photo of Swimming Water Quality monitoring site at Motueka River Alexanders Bridge</Image3Title>
+    <Image3AltText>A photo of the Swimming Water Quality monitoring site at Motueka River Alexanders Bridge</Image3AltText>
+  </Site>
+  <Site UniqueID="5">
+    <DataType>Swim Fresh</DataType>
+    <SiteName>BW Motueka @ SH bridge</SiteName>
+    <AltSiteName>Motueka River State Highway Bridge</AltSiteName>
+    <Latitude>-41.090914</Latitude>
+    <Longitude>173.010406</Longitude>
+    <DataSource>ENVMON</DataSource>
+    <Image1>815_Ecoli.gif</Image1>
+    <Image1Title>E.coli (MPN/100mL) readings for this season at Motueka River State Highway Bridge</Image1Title>
+    <Image1AltText>A bar chart showing Swimming Water Quality sampling results for this season at Motueka River State Highway Bridge</Image1AltText>
+    <Image2 />
+    <Image2Title />
+    <Image2AltText />
+    <Image3>815_SitePhoto.jpg</Image3>
+    <Image3Title>Photo of Swimming Water Quality monitoring site at Motueka River State Highway Bridge</Image3Title>
+    <Image3AltText>A photo of the Swimming Water Quality monitoring site at Motueka River State Highway Bridge</Image3AltText>
+  </Site>
+  <Site UniqueID="3">
+    <DataType>RiverFlow</DataType>
+    <SiteName>HY Motueka at Woodstock</SiteName>
+    <AltSiteName>Woodstock</AltSiteName>
+    <Latitude>-41.257896</Latitude>
+    <Longitude>172.822366</Longitude>
+    <DataSource>Hydrology-Working.hts</DataSource>
+    <Image1>1_Flow7day.gif</Image1>
+    <Image1Title>Flow (m3/sec) for last 7 days at Woodstock</Image1Title>
+    <Image1AltText>A line graph showing river flow in m3/sec for the last 7 days at Woodstock</Image1AltText>
+    <Image2>1_Flow30day.gif</Image2>
+    <Image2Title>Flow (m3/sec) for last 30 days at Woodstock</Image2Title>
+    <Image2AltText>A line graph showing river flow in m3/sec for the last 30 days at Woodstock</Image2AltText>
+    <Image3>1_SitePhoto.jpg</Image3>
+    <Image3Title>Photo of Riverflow monitoring site at Woodstock</Image3Title>
+    <Image3AltText>A photo of the Riverflow monitoring site at Woodstock</Image3AltText>
+  </Site>
+  <Site UniqueID="4">
+    <DataType>Parks</DataType>
+    <SiteName>Jubilee Park</SiteName>
+    <Latitude>-41.257896</Latitude>
+    <Longitude>172.822366</Longitude>
+	<Open>Daily 7am-7pm</Open>
+  </Site>
+</Sites>

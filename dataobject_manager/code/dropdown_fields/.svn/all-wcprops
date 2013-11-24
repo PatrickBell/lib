@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/dropdown_fields
+END
+SimpleTreeDropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/dropdown_fields/SimpleTreeDropdownField.php
+END
+LiveDropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/dropdown_fields/LiveDropdownField.php
+END
+StateDropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/dropdown_fields/StateDropdownField.php
+END
+HTMLDropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/dropdown_fields/HTMLDropdownField.php
+END
+FilteredDropdownSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/dropdown_fields/FilteredDropdownSet.php
+END
+StateProvinceDropdownField.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/code/dropdown_fields/StateProvinceDropdownField.php
+END

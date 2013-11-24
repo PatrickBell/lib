@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Date
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Date/Exception.php
+END
+Cities.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Date/Cities.php
+END
+.piston.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Date/.piston.yml
+END
+DateObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Date/DateObject.php
+END

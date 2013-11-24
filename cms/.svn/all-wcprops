@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/122815/projects/tdc/branches/libraries/cms
+END
+silverstripe_version
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/silverstripe_version
+END
+web.config
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/web.config
+END
+.piston.yml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/.piston.yml
+END
+_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/122290/projects/tdc/branches/libraries/cms/_config.php
+END

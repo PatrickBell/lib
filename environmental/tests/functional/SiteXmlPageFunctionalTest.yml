@@ -1,0 +1,19 @@
+SiteXmlPage:
+    sitePage:
+        SiteID: 1
+        SiteType: Type
+
+FlatXmlData:
+    siteXml:
+        InformationType: Site
+        SiteID: 1
+        SiteType: Type
+        SiteName: The Site
+        Payload: "<?xml version='1.0'?><Site UniqueID='1'><PageName>The Page Name</PageName><AltSiteName>The Alt Site Name</AltSiteName><Latitude>-41.409325</Latitude><Longitude>173.145348</Longitude></Site>"
+        
+TimedXmlData:
+    siteReadoutXml:
+        SiteID: 1
+        SiteType: Type
+        Time: 2010-05-07 14:00:00
+        Payload: "<IntervalValue><Value>10</Value><DateTime>7/05/2010 2:00:00 p.m.</DateTime><Status>NonExistentFileName</Status></IntervalValue>"

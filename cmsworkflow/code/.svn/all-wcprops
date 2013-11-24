@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code
+END
+WorkflowRequestChange.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/WorkflowRequestChange.php
+END
+WorkflowPublicationRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/WorkflowPublicationRequest.php
+END
+LeftAndMainCMSWorkflow.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/LeftAndMainCMSWorkflow.php
+END
+SiteTreeFutureState.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/SiteTreeFutureState.php
+END
+SiteTreeCMSWorkflow.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/SiteTreeCMSWorkflow.php
+END
+WorkflowRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/WorkflowRequest.php
+END
+CMSChangeTracker.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/CMSChangeTracker.php
+END
+WorkflowMemberRole.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/WorkflowMemberRole.php
+END
+ScheduledPublishing.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/ScheduledPublishing.php
+END
+WorkflowDeletionRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/WorkflowDeletionRequest.php
+END
+WorkflowSystemMember.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/cmsworkflow/code/WorkflowSystemMember.php
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/122852/projects/tdc/branches/libraries/sapphire/core
+END
+ValidationResult.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/ValidationResult.php
+END
+i18nTextCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/i18nTextCollector.php
+END
+ArrayLib.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/ArrayLib.php
+END
+Object.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/Object.php
+END
+SSViewer.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/122852/projects/tdc/branches/libraries/sapphire/core/SSViewer.php
+END
+ArrayData.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/ArrayData.php
+END
+Cookie.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/Cookie.php
+END
+ValidationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/ValidationException.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/Extension.php
+END
+ManifestBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122850/projects/tdc/branches/libraries/sapphire/core/ManifestBuilder.php
+END
+i18nTextCollectorTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/i18nTextCollectorTask.php
+END
+i18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/i18n.php
+END
+HTTP.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/HTTP.php
+END
+Convert.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/Convert.php
+END
+ClassInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/ClassInfo.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/Session.php
+END
+Requirements.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/Requirements.php
+END
+TokenisedRegularExpression.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/TokenisedRegularExpression.php
+END
+i18nEntityProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/i18nEntityProvider.php
+END
+Core.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/122851/projects/tdc/branches/libraries/sapphire/core/Core.php
+END
+ViewableData.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/core/ViewableData.php
+END

@@ -1,0 +1,25 @@
+LibraryListingPage:
+	fiction:
+		Title: Fiction
+	nonfiction:
+		Title: Non-fiction
+LibraryItemPage:
+	item1:
+		ItemTitle: Fire and Ice
+		Author: Julian Jones
+		Tnumber: 101
+		AccessionNo: AAB
+		Parent: =>LibraryListingPage.fiction
+		Content: "<p>Etiam nunc lorem, varius ut sodales non, commodo sit amet turpis. Mauris dignissim justo consectetur dui euismod non consequat felis placerat. Nulla facilisi. Proin quis mi sem, et porta ligula. Vestibulum enim lacus, adipiscing in iaculis vel, interdum vitae diam.</p><p>Nunc non urna sed arcu pulvinar accumsan at ac enim. Duis consectetur scelerisque mi, eu vehicula purus luctus ac. Mauris ultricies justo at orci gravida id molestie est venenatis. Integer et porta nulla. Donec diam ligula, ultricies vitae scelerisque tempus, consequat sed tortor. Fusce sagittis ultricies hendrerit. Cras aliquet sagittis lectus, eu semper velit molestie non. Vivamus libero felis, lacinia ac commodo quis, pharetra sed ante. Ut lectus velit, facilisis porta molestie vel, egestas et sapien. Morbi hendrerit feugiat odio faucibus porttitor. Nulla rutrum, tortor a ultrices ultricies, massa nunc luctus mi, a rhoncus augue mi at mi.</p>"
+		MetaDescription: Etiam nunc lorem, varius ut sodales non
+	item4:
+		ItemTitle: Reference book for caterpillar testing
+		Author: Dr. Him
+		Tnumber: 104
+		AccessionNo: AAE
+		Parent: =>LibraryListingPage.nonfiction
+		MetaDescription: Etiam nunc lorem, varius ut sodales non
+HomePage:
+	home:
+		Featured1: =>LibraryListingPage.fiction
+		Featured2: =>LibraryListingPage.nonfiction

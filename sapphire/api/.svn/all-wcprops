@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api
+END
+VersionedRestfulServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/VersionedRestfulServer.php
+END
+RSSFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/RSSFeed.php
+END
+RestfulServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/RestfulServer.php
+END
+SapphireSoapServer_wsdl.ss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/SapphireSoapServer_wsdl.ss
+END
+DataFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/DataFormatter.php
+END
+XMLDataFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/XMLDataFormatter.php
+END
+FormEncodedDataFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/FormEncodedDataFormatter.php
+END
+RestfulService.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/RestfulService.php
+END
+SOAPModelAccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/SOAPModelAccess.php
+END
+SapphireSoapServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/SapphireSoapServer.php
+END
+JSONDataFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/api/JSONDataFormatter.php
+END

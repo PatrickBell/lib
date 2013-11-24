@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/code/xml
+END
+XmlData.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/code/xml/XmlData.php
+END
+TimedXmlData.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/code/xml/TimedXmlData.php
+END
+XmlImportTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/code/xml/XmlImportTask.php
+END
+FlatXmlData.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/122290/projects/tdc/branches/libraries/environmental/code/xml/FlatXmlData.php
+END

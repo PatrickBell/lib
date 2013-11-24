@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/122855/projects/tdc/branches/libraries/mysite
+END
+Demo_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/122290/projects/tdc/branches/libraries/mysite/Demo_config.php
+END
+Prod_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/122464/projects/tdc/branches/libraries/mysite/Prod_config.php
+END
+Dev_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/122290/projects/tdc/branches/libraries/mysite/Dev_config.php
+END
+Test_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/122290/projects/tdc/branches/libraries/mysite/Test_config.php
+END
+_config.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/122853/projects/tdc/branches/libraries/mysite/_config.php
+END
+BetterImage.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/122589/projects/tdc/branches/libraries/mysite/BetterImage.php
+END

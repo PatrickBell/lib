@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hilltop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DataType>Swim Fresh</DataType>
+  <Site UniqueID="2">
+    <Measurement>E.coli</Measurement>
+    <SiteName>BW Lee @ Reserve</SiteName>
+    <Unit>MPN/100mL</Unit>
+    <Values>
+      <IntervalValue>
+        <Value>10</Value>
+        <NonDetect />
+        <DateTime>2/02/2010 2:20:00 p.m.</DateTime>
+      </IntervalValue>
+      <IntervalValue>
+        <Value>11</Value>
+        <NonDetect>&lt;</NonDetect>
+        <DateTime>15/12/2009 9:00:00 a.m.</DateTime>
+      </IntervalValue>
+      <IntervalValue>
+        <Value>12</Value>
+        <NonDetect>&lt;</NonDetect>
+        <DateTime>23/02/2010 4:50:00 p.m.</DateTime>
+      </IntervalValue>
+      <IntervalValue>
+        <Value>13</Value>
+        <NonDetect>&lt;</NonDetect>
+        <DateTime>24/02/2010 4:50:00 p.m.</DateTime>
+      </IntervalValue>
+	</Values>
+  </Site>
+  <Site UniqueID="3">
+    <Measurement>E.coli</Measurement>
+    <SiteName>BW Motueka @ Alexanders Br</SiteName>
+    <Unit>MPN/100mL</Unit>
+    <Values>
+      <IntervalValue>
+        <Value>13</Value>
+        <NonDetect />
+        <DateTime>2/02/2010 2:20:00 p.m.</DateTime>
+      </IntervalValue>
+	</Values>
+  </Site>
+</Hilltop>

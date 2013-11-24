@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/thirdparty/dps_hosted_helper
+END
+PxAccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/thirdparty/dps_hosted_helper/PxAccess.php
+END
+PxPayRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/thirdparty/dps_hosted_helper/PxPayRequest.php
+END
+gpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/thirdparty/dps_hosted_helper/gpl.txt
+END
+MifMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/thirdparty/dps_hosted_helper/MifMessage.php
+END
+PxPayResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/thirdparty/dps_hosted_helper/PxPayResponse.php
+END
+PxPay.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/thirdparty/dps_hosted_helper/PxPay.php
+END
+PxPayMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/DPSPayment/thirdparty/dps_hosted_helper/PxPayMessage.php
+END

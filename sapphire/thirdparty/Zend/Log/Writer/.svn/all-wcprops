@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Log/Writer
+END
+Mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Log/Writer/Mock.php
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Log/Writer/Null.php
+END
+Stream.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Log/Writer/Stream.php
+END
+Mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Log/Writer/Mail.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Log/Writer/Abstract.php
+END
+Firebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Log/Writer/Firebug.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/sapphire/thirdparty/Zend/Log/Writer/Db.php
+END

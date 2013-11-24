@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates
+END
+DataObjectManager.ss
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/DataObjectManager.ss
+END
+FileDataObjectManager.ss
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/FileDataObjectManager.ss
+END
+DataObjectManager_popup.ss
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/DataObjectManager_popup.ss
+END
+ImageDataObjectManager.ss
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/ImageDataObjectManager.ss
+END
+NestedDataObjectManager.ss
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/NestedDataObjectManager.ss
+END
+DataObjectManager_duplicate.ss
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/DataObjectManager_duplicate.ss
+END
+DataObjectManager_holder.ss
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/DataObjectManager_holder.ss
+END
+PopupClose.ss
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/PopupClose.ss
+END
+RelationDataObjectManager.ss
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/RelationDataObjectManager.ss
+END
+RelationFileDataObjectManager.ss
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/122290/projects/tdc/branches/libraries/dataobject_manager/templates/RelationFileDataObjectManager.ss
+END

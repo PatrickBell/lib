@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/122348/projects/tdc/branches/libraries/payment/code
+END
+PaystationPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/PaystationPayment.php
+END
+PaymentPage.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/122348/projects/tdc/branches/libraries/payment/code/PaymentPage.php
+END
+xmlrelay.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/xmlrelay.php
+END
+Payment.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/Payment.php
+END
+RecurringPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/RecurringPayment.php
+END
+WorldpayPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/WorldpayPayment.php
+END
+PaystationHostedPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/PaystationHostedPayment.php
+END
+PaymentPageValidator.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/PaymentPageValidator.php
+END
+RecordedTransactions.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/RecordedTransactions.php
+END
+EwayConfig.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/EwayConfig.inc.php
+END
+EwayPaymentLive.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/EwayPaymentLive.php
+END
+EwayXMLPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/EwayXMLPayment.php
+END
+PayPalPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/PayPalPayment.php
+END
+ChequePayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/122290/projects/tdc/branches/libraries/payment/code/ChequePayment.php
+END

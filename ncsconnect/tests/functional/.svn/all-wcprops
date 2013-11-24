@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/122290/projects/tdc/branches/libraries/ncsconnect/tests/functional
+END
+CemeteryPageFTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/ncsconnect/tests/functional/CemeteryPageFTest.yml
+END
+RatesPageFTest.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/122290/projects/tdc/branches/libraries/ncsconnect/tests/functional/RatesPageFTest.yml
+END
+CemeteryPageFTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/122290/projects/tdc/branches/libraries/ncsconnect/tests/functional/CemeteryPageFTest.php
+END
+RatesPageFTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/122290/projects/tdc/branches/libraries/ncsconnect/tests/functional/RatesPageFTest.php
+END

@@ -1,0 +1,8 @@
+--- 
+format: 1
+handler: 
+  commit: 833bb4858170fe24f1ebed34da4745d4e7d0bbb0
+  branch: master
+lock: false
+repository_class: Piston::Git::Repository
+repository_url: git://github.com/silverstripe-labs/silverstripe-compass.git

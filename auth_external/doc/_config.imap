@@ -1,0 +1,193 @@
+<?php
+/**
+ * Disable SilverStripe's built in authentication module
+ **/
+//Authenticator::unregister('MemberAuthenticator');
+
+/**
+ * External Authentication server definitions
+ * Change the parameters below to suit your authentication server, or disable 
+ * this authentication method altogether
+ */
+Authenticator::register_authenticator('ExternalAuthenticator');
+
+/**
+ * This module has a debug option. The debug option is aimed at system 
+ * administrators and/or webmasters. It shows the login process on a step
+ * by step basis to aid in finding the right settings for the module.
+ * The debug option will log the steps to a file. 
+ *
+ * KEEP THIS DISABLED ON PRODUCTION SYSTEMS. The option is turned off by 
+ * default. Set to filename to enable
+ *
+ * A successful logon for the SSTRIPE driver (without user auto creation) looks 
+ * like:
+ *    [timestamp] - Starting process for user [userid]
+ *    [timestamp] - [userid] - User with source [sourcename] found in database
+ *    [timestamp] - [userid] - loading driver IMAP
+ *    [timestamp] - [userid] - executing authentication driver
+ *    [timestamp] - [userid].imap - Connect string to server is {[see http://www.php.net/manual/en/function.imap-open.php]}
+ *    [timestamp] - [userid].imap - If you get a blank screen and the process end here, check php_imap module
+ *    [timestamp] - [userid].imap - imap_open returned mailbox handle
+ *    [timestamp] - [userid] - authentication success
+ *    [timestamp] - [uderid] - Process for user [userid] ended
+ **/
+//ExternalAuthenticator::setAuthDebug('/tmp/sstripe_debug.log');
+
+/**
+ * Next to the debug log, we can also create a logfile for auditing purposes
+ * In this file only logon attempts are registered
+ *
+ * Set this option to false to disable (default) or a filename. Make sure the
+ * file is writable by the webserver process
+ **/
+//ExternalAuthenticator::setAuditLogFile('/var/log/http/sstripe_audit.log');
+
+/**
+ * Silverstripe also has an internal table for auditing. You can enable or 
+ * disable (default) usage of it. It works in parallel with setAuditLogFile
+ **/
+//ExternalAuthenticator::setAuditLogSStripe(true);
+
+/** 
+ * Create your authentication source
+ * The first parameter is the Source ID. Set this to something you deem
+ *     approriate to this source. It must be unique among all authentication 
+ *     sources, may not contain special characters or spaces and must be 
+ *     shorter that 50 characters
+ * The second parameters is the type of server.
+ *     At the moment LDAP, FTP, IMAP and HTTPBASIC are supported
+ * The third parameter is a nice name for this source, to be showed in 
+ *     drop-down form fields to choose the source
+ *
+ * You can create multiple sources with different of same types
+ **/
+ExternalAuthenticator::createSource('localimap','IMAP','Local mail server');
+
+/**
+ * For each source you may give a set of netmasks where the client should 
+ * reside. This prevents exposing internal authentication sources on a 
+ * website that is accessible from the outside. Any failed logins from outside 
+ * the indicated IP ranges on accounts coupled to this source will never block
+ * the account (see Member::lock_out_after_incorrect_logins)
+ *
+ * If no addresses are set all clients IPs are allowed. You can set either one
+ * netmask, or an array of netmasks. The netmask may be given as a single IP or
+ * as a.b.c.d/e or a.b.c.d/e.f.g.h
+ **/ 
+//ExternalAuthenticator::setValidAddress('localimap',array('192.168.0.0/24',
+//                                                         '127.0.0.1',
+//                                                         '172.16.0.129/255.255.255.128));
+//ExternalAuthenticator::setValidAddress('localimap','127.0.0.1);
+
+/**
+ * Four pieces of information come into play when authenticating
+ * 1) The User's mail address
+ * 2) The authentication source
+ * 3) The User's identification credential at the source. This can be the 
+ *    username, or some other unique ID. This module calls it the 
+ *    anchor 
+ * 4) The password
+ *
+ * By default the user address is used for login. 
+ * The mail address is always unique, so SilverStripe can determine the
+ * authentication source and anchor to use for itself.
+ * The user only needs to give his/hers mail address and password
+ *
+ * Optionally the anchor can be used for authentication. If this is set the
+ * user needs to input the authentication source, the anchor and password
+ * to logon.
+ **/
+//ExternalAuthentication::setUseAnchor(false); 
+
+/**
+ * How do we call a user ID?
+ * This string is informational and will appear on the login page
+ */
+ExternalAuthenticator::setAnchorDesc('User ID');
+
+/**
+ * If the authentication source does not have a mechanism to prevent password
+ * disctionary attacks, we can use SilverStripes lockout mechanism.
+ * Configuration for this also has to be set in the global config. You can also
+ * do it here by uncommenting the next statement and defining the number of
+ * failed logins you allow
+ **/
+//Member::lock_out_after_incorrect_logins(3);
+
+/**
+ * The statement to enable lock checking for this source. This functionality is
+ * enabled by default
+ **/
+//ExternalAuthenticator::setAuthSSLock('localimap',true);
+
+/**
+ * Hostname of the authentication server
+ * you can specify it like a normal hostname or IP number.
+ * If you use SSL or TLS, use the name matching the server certificate here  
+ **/
+/**
+ * NOTE: The first parameter we set is the source ID. This is needed for all
+ *       settings from hereon
+ **/
+ExternalAuthenticator::setAuthServer('localimap','localhost.localdomain'); 
+
+/**
+ * Authentication server port, normally 143 for IMAP and 993 for IMAPS
+ * If you comment this out, it will use the default.
+ **/
+//ExternalAuthenticator::setAuthPort('localimap', 143); 
+
+/**
+ * You can use TLS or SSL for encryption, for the methods that support it.
+ * Don't set it, or set it to TLS or SSL
+ **/
+//ExternalAuthenticator::setAuthEnc('localimap', 'tls');
+
+/**
+ * You have to possibility to auto create non existing users.
+ * The effect of this option also depends on setting in 
+ * 'setUseAnchor'. If set to true, an account is created with a mail address
+ * that is constructed as [anchor value]@[present domain]
+ * If an account already exists with the this mail address and authentication
+ * is successful, the anchor and source are added or modified on that account
+ * This helps migrating existing SilverStripe users to external authentication
+ * sources.
+ *
+ * If 'setUseAnchor' is set to false (the default) nothing will happen
+ * This driver does not have the capability to determine source and anchor for
+ * a given mail address
+ *
+ * WARNING WARNING WARNING
+ * If you do not have control over the external authentication source, you no
+ * longer control who can log in. USE WITH CARE
+ *
+ * The second argument with this option is the group to add the user to. If an
+ * existing account is modified, the group memberships are not changed.
+ **/
+//ExternalAuthenticator::setAutoAdd('localimap', 'Testgroup');
+ExternalAuthenticator::setAutoAdd('localimap', false);
+
+/**
+ * When an account is auto created, the e-mail address must be added to the
+ * user account. By default, the mail address is equal to the user account
+ * If the setting below is configured, is will be 
+ * [username]@[what's configured below]
+ **/
+//ExternalAuthenticator::setDefaultDomain('localimap', 'silverstripe.com');
+
+/**
+ * Protocol to use. You must set this to imap or pop3
+ **/
+ExternalAuthenticator::setOption('localimap', 'protocol', 'imap');
+
+/**
+ * If you use TLS or SSL, it could be that the server certificate does not
+ * match the hostname (e.g. if you use the default self signed certificate
+ * installed by default on many Linuxes. You can turn off certificate 
+ * validation in this case.
+ *
+ * BE CAREFUL: Someone may replace the POP3/IMAP server you use without you
+ *             noticing
+ **/
+//ExternalAuthenticator::setOption('localimap', 'certnovalidate', true);
